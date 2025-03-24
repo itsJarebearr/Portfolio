@@ -1,0 +1,41 @@
+html,
+body {
+  font-family: 'comfortaa', sans-serif;
+  text-align: center;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+/* Nav bar */
+
+ nav ul {
+  position: fixed;
+  text-align: right;
+  width: 100%;
+  background-color: #6eebc7;
+  font-family: "comfortaa",sans-serif; 
+  font-size: 1.2em;
+}
+
+nav ul li {
+  display: inline-block;
+  margin: 20px; 
+}
+
+nav ul li a {
+  color: #ffff;
+  text-decoration: none;  
+}
+nav ul li a:hover {
+  color: #ababab;
+}
+
+
+body {
+	
+  background: rgb(255, 250, 237);
+
+}
